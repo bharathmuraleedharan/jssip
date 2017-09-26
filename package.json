@@ -27,7 +27,7 @@
     "url": "https://github.com/versatica/JsSIP/issues"
   },
   "dependencies": {
-    "debug": "visionmedia/debug#v3",
+    "debug": "^3.0.1",
     "rtcninja": "^0.6.4",
     "sdp-transform": "~1.5.3",
     "websocket": "^1.0.22"
